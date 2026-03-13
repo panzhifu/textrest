@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"D:/textrest\" && flutter analyze 2>&1)"
+    ]
+  }
+}
