@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+开发文档-阅读融合系统.md 
+数据结构文档.md
+model_schema.md
